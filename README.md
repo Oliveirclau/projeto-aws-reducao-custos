@@ -21,7 +21,17 @@ O objetivo deste projeto foi aplicar soluções em nuvem para **reduzir custos o
 
 ## 📄 Relatório
 
-Acesse o relatório completo 👉 [Relatório AWS Abstergo.pdf](./Relatório%20AWS%20Abstergo.pdf)
+Acesse o relatório completo 👉 [Relatorio AWS Abstergo.pdf](./Relatorio_AWS_Abstergo.pdf)
+
+
+---
+
+## 🔗 Links Úteis
+
+- [AWS - Página Oficial](https://aws.amazon.com/pt/)
+- [Documentação do Amazon S3](https://docs.aws.amazon.com/pt_br/s3/)
+- [Documentação do Amazon EC2](https://docs.aws.amazon.com/pt_br/ec2/)
+- [Documentação do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/)
 
 ---
 
