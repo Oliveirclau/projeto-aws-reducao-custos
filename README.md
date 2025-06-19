@@ -19,30 +19,21 @@ O objetivo deste projeto foi aplicar soluções em nuvem para **reduzir custos o
 
 ---
 
-## 📜 Relatório
+## 📄 Relatório
 
-Acesse o relatório completo aqui 👉 [Relatório de Implementação de Serviços AWS](./Relatorio_AWS_Abstergo.pdf)
+Acesse o relatório completo 👉 [Relatório AWS Abstergo.pdf](./Relatório%20AWS%20Abstergo.pdf)
 
----
-
-## 🔗 Links Úteis
-
-- [AWS - Página Oficial](https://aws.amazon.com/pt/)
-- [Documentação do Amazon S3](https://docs.aws.amazon.com/pt_br/s3/)
-- [Documentação do Amazon EC2](https://docs.aws.amazon.com/pt_br/ec2/)
-- [Documentação do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/)
+> 🔥 **Obs:** Atenção que, se o nome do arquivo tiver espaço, no Markdown você precisa substituir o espaço por `%20`. Por isso está assim no link:  
+`Relatório AWS Abstergo.pdf` → `Relatório%20AWS%20Abstergo.pdf`  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-📦 Projeto-AWS-Abstergo
+📦 projeto-aws-reducao-custos
  ┣ 📄 README.md
- ┣ 📄 Relatorio_AWS_Abstergo.pdf
- ┣ 📁 imagens
- ┃ ┣ 📄 arquitetura.png
- ┃ ┗ 📄 exemplo_s3.png
- ┗ 📁 anexos
-   ┣ 📄 plano_implementacao.pdf
-   ┗ 📄 manual_boas_praticas.pdf
+ ┣ 📄 Relatório AWS Abstergo.pdf
+ ┗ 📁 imagens
+    ┣ 📄 arquitetura.png
+    ┗ 📄 exemplo_s3.png
