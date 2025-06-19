@@ -23,9 +23,6 @@ O objetivo deste projeto foi aplicar soluções em nuvem para **reduzir custos o
 
 Acesse o relatório completo 👉 [Relatório AWS Abstergo.pdf](./Relatório%20AWS%20Abstergo.pdf)
 
-> 🔥 **Obs:** Atenção que, se o nome do arquivo tiver espaço, no Markdown você precisa substituir o espaço por `%20`. Por isso está assim no link:  
-`Relatório AWS Abstergo.pdf` → `Relatório%20AWS%20Abstergo.pdf`  
-
 ---
 
 ## 📂 Estrutura do Projeto
@@ -33,7 +30,5 @@ Acesse o relatório completo 👉 [Relatório AWS Abstergo.pdf](./Relatório%20A
 ```plaintext
 📦 projeto-aws-reducao-custos
  ┣ 📄 README.md
- ┣ 📄 Relatório AWS Abstergo.pdf
- ┗ 📁 imagens
-    ┣ 📄 arquitetura.png
-    ┗ 📄 exemplo_s3.png
+ ┗ 📄 Relatório AWS Abstergo.pdf
+
